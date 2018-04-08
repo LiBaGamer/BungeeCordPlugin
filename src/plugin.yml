@@ -1,0 +1,10 @@
+name: BungeeCordPlugin
+version: 1.0
+author: LiBaGamer
+main: de.libagamer.bungeecordplugin.main.Main
+commands:
+  ping:
+  broadcast:
+  msg:
+  r:
+  wartungsarbeiten:
